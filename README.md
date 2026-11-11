@@ -2,8 +2,6 @@
 
 **Participant:** Navya Renuka Ankam
 
-**Project path:** Path B, red team an agent of your choice
-
 **Tested model:** `Qwen/Qwen3-30B-A3B-Instruct-2507` through Nebius Token Factory
 
 ## Project summary
