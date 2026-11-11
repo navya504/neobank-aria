@@ -20,6 +20,8 @@ The full report includes prompts, model responses, scores, rationales, evidence 
 
 [Open the Google Docs report](https://docs.google.com/document/d/1tu8BLXrx1jPF49W9d2K8oBTrOzuqFZhPHtrxcOSWJ7I/edit)
 
+The exported PDF copy is included in this repository as `Week-6-Red-Team-Report.pdf`.
+
 ## Repository contents
 
 | File or folder | Purpose |
@@ -28,6 +30,7 @@ The full report includes prompts, model responses, scores, rationales, evidence 
 | `aria_redteam_results.jsonl` | Stores the prompts and actual model responses from the recorded run. |
 | `render_evidence.py` | Builds readable evidence images from the JSONL results. |
 | `evidence/` | Contains representative PASS, WARN, and FAIL transcript images. |
+| `Week-6-Red-Team-Report.pdf` | Exported copy of the completed report. |
 | `README.md` | Project overview and instructions. |
 
 The runner writes each result with an `UNSCORED` status. The scores in the report were assigned by reviewing the complete responses against the rubric.
